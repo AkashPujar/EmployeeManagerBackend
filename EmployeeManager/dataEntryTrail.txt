@@ -1,0 +1,41 @@
+https://www.bootdey.com/img/Content/avatar/avatar1.png.
+
+{
+	"email" : "raj.kumar@gmail.com",
+	"imageUrl" : "https://www.bootdey.com/img/Content/avatar/avatar1.png",
+	"jobTitle" : "Javascript",
+	"name" : "Raj Kumar",
+	"phone" : "8751478905"
+}
+
+{
+	"email" : "raju.malhotra@gmail.com",
+	"imageUrl" : "https://www.bootdey.com/img/Content/avatar/avatar2.png",
+	"jobTitle" : "Flutter",
+	"name" : "Raju Malhotra",
+	"phone" : "8751578905"
+}
+
+{
+	"email" : "sita.kumari@gmail.com",
+	"imageUrl" : "https://www.bootdey.com/img/Content/avatar/avatar3.png",
+	"jobTitle" : "Java",
+	"name" : "Sita Kumari",
+	"phone" : "8751478908"
+}
+
+{
+	"email" : "akshay.kumar@gmail.com",
+	"imageUrl" : "https://www.bootdey.com/img/Content/avatar/avatar4.png",
+	"jobTitle" : "Python",
+	"name" : "Akshay Kumar",
+	"phone" : "8752478905"
+}
+
+{
+	"email" : "ram.guru@gmail.com",
+	"imageUrl" : "https://www.bootdey.com/img/Content/avatar/avatar5.png",
+	"jobTitle" : "React Native",
+	"name" : "Ram Guru",
+	"phone" : "9751478905"
+}
